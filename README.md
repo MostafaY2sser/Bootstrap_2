@@ -5,7 +5,7 @@ REVERA is a modern, responsive web application designed to showcase portfolio it
 ## Features
 
 - **Responsive Navbar**: A sticky-top, responsive navbar with smooth toggling for smaller screens.
-- **Image Carousel**: A carousel with captions, allowing users to showcase images with descriptions.
+- **Image Carousel**: A carousel with captions, allowing users to showcase images with descriptions
 - **Service Highlights**: Sections dedicated to showcasing various services like Web Design, Web Development, and App Development.
 - **Portfolio Gallery**: A portfolio gallery section featuring high-quality images with accompanying descriptions.
 - **Footer with Information**: A detailed footer including Meta links, Archives, and Recent Posts.
